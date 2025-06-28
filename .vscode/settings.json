@@ -1,0 +1,7 @@
+{
+    "git.allowNoVerifyCommit": false,
+    "git.enabled": true,
+    "git.ignoreLimitWarning": true,
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true
+}
